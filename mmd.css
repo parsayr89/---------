@@ -1,0 +1,14 @@
+.a{
+    font-size: 70px;
+}
+.b{
+    width:300px;
+    height: 140px;
+    display: block;
+    box-shadow: 3px 3px 3px#808080 ;
+    border-radius: 30px;
+}
+body{
+    background-color: #fcfcfc;
+    color: rgb(0, 0, 0);
+}
